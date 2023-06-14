@@ -1,7 +1,9 @@
 # Movie-App
 
+## Tools
+NODE JS / MONGOOSE / REACT NATIVE / EXPO 
+
 ## Usage
-  
 - `cd client/my-app/npm i` download modules.
 - `cd server/npm i` download modules.
 - `npx expo start --tunnel` get the barcode from terminal 
