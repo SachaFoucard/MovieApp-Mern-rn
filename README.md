@@ -11,25 +11,27 @@ NODE JS / MONGOOSE / REACT NATIVE / EXPO
 - `cd server/pnpm run dev` Create Server Express and connect MongoDB.
 
 
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 09 36" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/18b326b6-89bd-47ce-a9f2-c4702700eaaf">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 11 15" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/30287a31-6014-46b1-a5c2-d024c38a2de1">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 11 41" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/620d5997-a303-4011-b602-4d2c01fa0325">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 12 17" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/8cbc1139-c738-497a-b0e2-4e1d63116b8d">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 12 29" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/3bd9ea54-28fe-488b-8f74-eeadf93c14c8">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 12 42" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/63262f28-b772-428d-8855-870056fc43ca">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 13 36" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/29e6ece2-af3d-4aef-8343-0d7bbc91849c">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 14 02" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/bcf97d22-309c-4980-9e29-e72c91022faf">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 14 23" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/ca117dbc-fceb-4e21-a6c4-492e3a3f232b">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 14 39" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/8e478d87-26a3-4792-8525-34097f1cbf59">
-<img width="278" alt="Capture d’écran 2023-06-15 à 23 15 37" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/8dd27095-7cef-4ecf-b427-10bb50d2172a">
-
-<img width="278" alt="Capture d’écran 2023-06-14 à 02 50 09" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/64459e82-beb8-41c2-af8a-beed187b8cab">
-<img width="278" alt="Capture d’écran 2023-06-14 à 02 51 31" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/0e13793f-1d1e-4daa-a77b-068e6c9bfb0d">
-
-
-
-
-
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 09 36" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/18b326b6-89bd-47ce-a9f2-c4702700eaaf">
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 11 15" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/30287a31-6014-46b1-a5c2-d024c38a2de1">
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 11 41" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/620d5997-a303-4011-b602-4d2c01fa0325">
+</br>
+</br>
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 12 17" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/8cbc1139-c738-497a-b0e2-4e1d63116b8d">
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 12 29" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/3bd9ea54-28fe-488b-8f74-eeadf93c14c8">
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 12 42" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/63262f28-b772-428d-8855-870056fc43ca">
+</br>
+</br>
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 13 36" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/29e6ece2-af3d-4aef-8343-0d7bbc91849c">
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 14 02" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/bcf97d22-309c-4980-9e29-e72c91022faf">
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 14 23" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/ca117dbc-fceb-4e21-a6c4-492e3a3f232b">
+</br>
+</br>
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 14 39" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/8e478d87-26a3-4792-8525-34097f1cbf59">
+<img width="270" alt="Capture d’écran 2023-06-15 à 23 15 37" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/8dd27095-7cef-4ecf-b427-10bb50d2172a">
+<img width="270" alt="Capture d’écran 2023-06-14 à 02 50 09" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/64459e82-beb8-41c2-af8a-beed187b8cab">
+</br>
+</br>
+<img width="270" alt="Capture d’écran 2023-06-14 à 02 51 31" src="https://github.com/SachaFoucard/React-Native-MovieApp/assets/94567706/0e13793f-1d1e-4daa-a77b-068e6c9bfb0d">
 
 
 ## Description of the app:
