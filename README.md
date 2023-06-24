@@ -2,10 +2,10 @@
 
 ## Tools
 ### BackEnd (NodeJS) :
-bcrypt, Mongoose, express, nodemailer, dotenv, nodemon, cors, dotenv
+bcrypt, Mongoose, express, dotenv, nodemon, cors, dotenv
 
 ### FrontEnd :
-React Native 
+React Native, Expo
 
 ## Usage
 - `cd client/my-app/npm i` download modules.
