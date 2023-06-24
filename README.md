@@ -1,7 +1,11 @@
 # Movie-App
 
 ## Tools
-NODE JS / MONGOOSE / REACT NATIVE / EXPO 
+### BackEnd (NodeJS) :
+bcrypt, Mongoose, express, nodemailer, dotenv, nodemon, cors, dotenv
+
+### FrontEnd :
+React Native 
 
 ## Usage
 - `cd client/my-app/npm i` download modules.
